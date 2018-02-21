@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="TimBarretto_SampleForm::mastering" title="TimBarretto"
+             module="TimBarretto_SampleForm" resource="TimBarretto_SampleForm::sampleform"
+             translate="title" sortOrder="900" action="sampleform"/>
+    </menu>
+</config>
