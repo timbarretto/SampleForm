@@ -13,14 +13,6 @@
     "magento/module-ui": "*",
     "magento/magento-composer-installer": "*"
   },
-  "extra": {
-    "map": [
-      [
-        "*",
-        "TimBarretto/SampleForm"
-      ]
-    ]
-  },
   "autoload": {
     "files": [
       "registration.php"
